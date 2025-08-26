@@ -2,7 +2,7 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: app-config
-  namespace: crudapp
+  namespace: microservices
 data:
   DB_HOST: "db"
   POSTGRES_USER: "postgres"

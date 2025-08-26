@@ -1,4 +1,4 @@
-namespace: crudapp
+namespace: microservices
 
 image:
   repository: 3371c74d52c8.ngrok-free.app/orders_service

@@ -1,5 +1,5 @@
 # REPRODUCTION EXACTE de votre configuration
-namespace: crudapp
+namespace: microservices
 
 image:
   repository: postgres

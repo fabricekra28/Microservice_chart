@@ -4,7 +4,7 @@ set -e
 echo "🚀 DÉPLOIEMENT MICROSERVICES AVEC HELM - VERSION CORRIGÉE"
 echo "========================================================"
 
-NAMESPACE="crudapp"
+NAMESPACE="microservices"
 HELM_CHARTS_DIR="../helm-charts"
 
 # Nettoyage préalable
